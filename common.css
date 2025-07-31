@@ -1,0 +1,16 @@
+.top{
+    position:relative;
+}
+
+.top .heading{
+    position: absolute;
+    bottom:100px;
+    text-align: center;
+    
+    background: linear-gradient(to right, #024F2D, transparent);
+    padding: 25px 0px;
+    color: white;
+    font: bold 40px verdana;
+    text-shadow:  7px 7px 5px black;
+    width: 80%;
+}
